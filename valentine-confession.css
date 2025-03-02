@@ -21,7 +21,7 @@ body {
 	position: absolute;
 	font-size: 1.6rem;
 	color: #7A1CAC;
-	top: 50%;
+	top: 36%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -64,7 +64,7 @@ body {
 	line-height: 1.5em;
 	width: 80%;
 	max-width: 550px;
-	height: 78%;
+	height: 50%;
 	position: absolute;
 	left: 50%;
 	top: 50%;
