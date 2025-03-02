@@ -21,10 +21,9 @@ body {
 	position: absolute;
 	font-size: 1.6rem;
 	color: #7A1CAC;
-	top: 25%;
+	top: 40%;
 	left: 50%;
 	transform: translate(-50%, -50%);
- margin-bottom: 15px;
 }
 
 .container {
