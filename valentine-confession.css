@@ -29,14 +29,14 @@ body {
 .container {
 	position: relative;
 	width: 100%;
-	height: auto; /* Set height to auto */
+	height: 100vh;/* Set height to auto */
 	overflow: hidden;
 }
 
 .heart {
-	position: relative; /* Change position to relative */
+	position: absolute; /* Change position to relative */
 	left: 50%;
-	top: 10%; /* Adjust the top value as needed */
+	top: 50%; /* Adjust the top value as needed */
 	text-align: center;
 	transform: translate(-50%, -50%);
 	transition: transform 2s;
