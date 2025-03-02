@@ -46,7 +46,7 @@ body {
 
 .heart > img {
 	width: 50px;
-	height: 30px;
+	height: auto;
 
 	animation-name: beat;
 	animation-duration: 2s;
