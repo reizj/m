@@ -59,19 +59,16 @@ body {
 	padding: 25px;
 	background-color: #fff0f3;
 	font-family: "Quicksand", serif;
-  font-optical-sizing: auto;
+	font-optical-sizing: auto;
 	font-size: clamp(16px, 10vw, 17px);
 	text-align: justify;
 	line-height: 1.5em;
 	width: 80%;
 	max-width: 550px;
-	height: 78%;
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	transform: translate(-50%, -50%);
+	height: auto; /* Set height to auto */
+	position: relative; /* Change position to relative */
+	margin: 0 auto; /* Center the message horizontally */
 	z-index: 0;
-
 	animation-name: openmsg;
 	animation-duration: 2s;
 	animation-timing-function: linear;
