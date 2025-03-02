@@ -21,7 +21,7 @@ body {
 	position: absolute;
 	font-size: 1.6rem;
 	color: #7A1CAC;
-	top: 36%;
+	top: 40%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -35,8 +35,8 @@ body {
 
 .heart {
 	position: absolute;
-	left: 40%;
-	top: 40%;
+	left: 50%;
+	top: 50%;
 	text-align: center;
 	transform: translate(-50%, -50%);
 	transition: transform 2s;
@@ -66,8 +66,8 @@ body {
 	max-width: 550px;
 	height: 78%;
 	position: absolute;
-	left: 40%;
-	top: 40%;
+	left: 50%;
+	top: 50%;
 	transform: translate(-50%, -50%);
 	z-index: 0;
 
