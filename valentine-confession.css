@@ -29,9 +29,8 @@ body {
 .container {
 	position: relative;
 	width: 100%;
-	height: 100vh;
+	height: auto; /* Set height to auto */
 	overflow: hidden;
-
 }
 
 .heart {
